@@ -6,7 +6,7 @@ Just type any keyword in the search bar, and the app will instantly show you a c
 Your recent searches are saved as tags, so you can easily revisit them later without typing again.
 
 ## 🚀 Technologies Used
-- **React**
+- **React 19**
 - **GIPHY API**
 
 ## 🛠️ Getting Started (Development)
